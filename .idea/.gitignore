@@ -1,3 +1,4 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+venv/
+django_project/__pycache__/
+main/__pycache__/
+main/migrations/__pycache__/
